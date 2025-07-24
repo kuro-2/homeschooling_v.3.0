@@ -180,7 +180,7 @@ function Dashboard() {
   const metrics = [
     { title: "Total Syllabi", value: "12", icon: BookOpen, change: "0 completed", valueColor: "text-blue-800", iconColor: "text-blue-500", changeColor: "text-blue-600" },
     { title: "Learning Assets", value: "248", icon: FileText, change: "Across all subjects", valueColor: "text-green-800", iconColor: "text-green-500", changeColor: "text-green-600" },
-    { title: "Current GPA", value: "3.8", icon: Award, change: "Target: 0.0", valueColor: "text-purple-800", iconColor: "text-purple-500", changeColor: "text-purple-600" },
+    { title: "Current GPA", value: "3.8", icon: Award, change: "Target: 4.0", valueColor: "text-purple-800", iconColor: "text-purple-500", changeColor: "text-purple-600" },
     { title: "Engagement", value: "87%", icon: TrendingUp, change: "Participation rate", valueColor: "text-teal-800", iconColor: "text-teal-500", changeColor: "text-teal-600" }
   ];
 
